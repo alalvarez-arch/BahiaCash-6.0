@@ -1,0 +1,6 @@
+BahiaGo V6 — subir a GitHub Pages
+1) Descomprime el ZIP y entra en BahiaGo-V6.
+2) Sube TODOS los archivos y la carpeta icons/ a la raiz del repositorio.
+3) Settings → Pages → Deploy from a branch → main → / (root) → Save.
+4) Si falta .nojekyll: Create new file → .nojekyll (vacio) → Commit.
+5) Espera 1-2 min y abre https://TU_USUARIO.github.io/NOMBRE_REPO/
